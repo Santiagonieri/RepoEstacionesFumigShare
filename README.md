@@ -60,5 +60,9 @@ para facilitar el análisis de condiciones ambientales al momento de realizar ta
 - Una vez validados, los cambios se integran a `main` y se publica manualmente en **Power BI Service**.
 - La actualización de datos está programada y automatizada, utilizando conexiones en la nube (Spreadsheet y API REST)
 
+![Reporte](Captura-Reporte.png)
+![Estructura del proyecto](Captura-EstructuraProyecto.png)
+![Ramas del proyexto](Captura-EstructuraProyecto-Ramas.png)
+![Modelo](Modelado.png)
 
 
